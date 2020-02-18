@@ -1,7 +1,7 @@
 import 'dart:ui';
 
 import 'package:Rajputana/Widgets/navigations.dart';
-import 'package:flutter/Material.dart';
+import 'package:flutter/material.dart';
 // import 'package:webview_flutter/webview_flutter.darts';
 // import 'package:url_launcher/url_launcher.dart';
 

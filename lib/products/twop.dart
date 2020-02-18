@@ -4,7 +4,7 @@ import 'package:Rajputana/Widgets/navigations.dart';
 import 'package:Rajputana/calculator/cfour.dart';
 // import 'package:Rajputana/calculator/ctwo.dart';
 // import 'package:Rajputana/cone.dart';
-import 'package:flutter/Material.dart';
+import 'package:flutter/material.dart';
 
 class TwopPage extends StatefulWidget {
   State<StatefulWidget> createState() {

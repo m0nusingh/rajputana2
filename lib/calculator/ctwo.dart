@@ -1,7 +1,7 @@
 import 'dart:ui';
 
 import 'package:Rajputana/Widgets/navigations.dart';
-import 'package:flutter/Material.dart';
+import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 
 class CtwoPage extends StatefulWidget {

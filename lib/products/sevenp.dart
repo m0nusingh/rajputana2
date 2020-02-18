@@ -1,7 +1,7 @@
 
 import 'package:Rajputana/Widgets/navigations.dart';
 
-import 'package:flutter/Material.dart';
+import 'package:flutter/material.dart';
 
 class SevenpPage extends StatefulWidget {
   State<StatefulWidget> createState() {
